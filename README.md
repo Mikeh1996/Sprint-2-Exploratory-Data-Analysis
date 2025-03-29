@@ -73,7 +73,7 @@ Each file was loaded and checked for duplicate or missing data. The datasets wer
 sh
 Copy
 Edit
-git clone https://github.com/YOUR-USERNAME/instacart-eda-project.git
+git clone https://github.com/YOUR-USERNAME/Sprint-2-Exploratory-Data-Analysis.git
 cd instacart-eda-project
 
 #### Set up a virtual environment and install dependencies
